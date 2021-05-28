@@ -15,7 +15,7 @@ function App() {
         q: searchTerm,
         part: "snippet",
         maxResults: 5,
-        key: "AIzaSyAqUdaTT-nyaenC52bfjBBc61Ki45M8mnE",
+        key: "Enter YOUR Google API KEY",
       },
     });
     setVideos(items);
